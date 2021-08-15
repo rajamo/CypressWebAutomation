@@ -1,0 +1,7 @@
+{
+    "env": {
+      "BASE_URL": "https://www.unibet.co.uk/betting/sports/home",
+      "SINGLES": "Singles",
+      "BETAMOUNT": "50"
+    }
+  }

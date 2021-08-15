@@ -1,0 +1,16 @@
+{
+  "name": "webautomation",
+  "version": "1.0.0",
+  "description": "Automate Web using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raja Mohan",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.6.0",
+    "mochawesome": "^6.2.2",
+    "typescript": "^4.3.5"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "target": "es5",
+        "lib": [
+            "es5",
+            "dom"
+        ],
+    },
+    "include": [
+        "**/*.ts"
+    ]
+}
